@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ec8bad00d7b94dc8ab831d27fdd642a6',
+  rootNotionPageId: 'EFZ-bba653018b664d6dabced7d4c2ab9ae6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '华东师大二附中社团年鉴',
+  name: '华东师大二附中(普陀校区）社团年鉴',
   domain: 'hsefz.aeilot.top',
   author: '华东师大二附中',
 
   // open graph metadata (optional)
-  description: '华东师大二附中社团年鉴',
+  description: '华东师大二附中（普陀校区）社团年鉴',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
